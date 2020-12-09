@@ -1,0 +1,18 @@
+com/mygdx/game/MyActor.java
+ com.mygdx.game.MyActor
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+ com.mygdx.game.MyGdxGame$1
+ com.mygdx.game.MyGdxGame$2
+ com.mygdx.game.MyGdxGame$ActorInputListener
+ com.mygdx.game.MyGdxGame$StageInputListener
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+ com.mygdx.game.GameScreen$1
+ com.mygdx.game.GameScreen$ActorInputListener
+ com.mygdx.game.GameScreen$InputDetect
+ com.mygdx.game.GameScreen$StageInputListener
+com/mygdx/game/StartMain.java
+ com.mygdx.game.StartMain
+com/mygdx/game/StartScreen.java
+ com.mygdx.game.StartScreen
